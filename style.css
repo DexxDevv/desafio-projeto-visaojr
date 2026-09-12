@@ -16,4 +16,29 @@
 
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    
+}
+
+
+
+.footer {
+    
+    text-align: center;
+    margin-top: auto;
+    background-color: #8aab53;
+}
+.footer__text{
+   
+    color: white;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+
 
